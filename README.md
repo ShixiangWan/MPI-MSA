@@ -3,8 +3,8 @@
 
 基于MPI实现的DNA/RNA多序列比对程序，应用于集群和超级计算机环境。
 
-相关Spark/Hadoop实现：https://github.com/ShixiangWan/HAlign2.0
-相关GPU实现：https://github.com/ShixiangWan/CMSA2
+相关Spark/Hadoop实现：https://github.com/ShixiangWan/HAlign2.0  
+相关GPU实现：https://github.com/ShixiangWan/CMSA2  
 
 
 + UPDATE
